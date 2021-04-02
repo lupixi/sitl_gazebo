@@ -18,7 +18,7 @@
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
   <!-- <url type="website">http://wiki.ros.org/mavlink_sitl_gazebo</url> -->
-  <url type="repository">https://github.com/PX4/sitl_gazebo</url>
+  <url type="repository">https://github.com.cn.cnpmjs.org/lupixi/sitl_gazebo</url>
 
   <!-- Author tags are optional, mutiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
